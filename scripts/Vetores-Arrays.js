@@ -24,7 +24,7 @@ console.log(total);
 const bandeiras = [
   ['Brasil', ['Verde', 'Amarelo', 'Azul', 'Branco']],
   ['Canadá', ['Vermelho', 'Branco']],
-  ['Mexico', ['Verde', 'Branco', 'Vermelho']],
+  ['México', ['Verde', 'Branco', 'Vermelho']],
   ['EUA', ['Azul', 'Branco', 'Vermelho']],
 ];
 
