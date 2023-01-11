@@ -19,7 +19,7 @@ class ListaEncadeada {
     } else {
       atual = this.head;
       novo.proximo = atual;
-      this.head;
+      this.head = novo;
     }
 
     return elemento;
